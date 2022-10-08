@@ -1,6 +1,7 @@
 😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
 
 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
+
  <ul align="left">
   <img
     width="360px"
@@ -11,7 +12,7 @@
  
  <ul align="right">
   <img
-    width="440px"
+    width="420px"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true"
   />
