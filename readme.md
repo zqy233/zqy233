@@ -4,7 +4,7 @@
 
  <ul align="left">
   <img
-    width="360px"
+    width="350px"
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact"
   />
