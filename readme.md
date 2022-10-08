@@ -2,9 +2,12 @@
   Hey, I'm ZQY!
 </h1>
 
-😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
+<p align="center">
+    •📝
+    <b><a href="https://zqy233.github.io/vite-vue-blog/">Blogs</a></b>
+</p>
 
-📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
+😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
 
 <a href="https://github.com/zqy233">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
