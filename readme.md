@@ -15,7 +15,7 @@
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/zqy233">
-    <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
   </a>
 </div>
 
