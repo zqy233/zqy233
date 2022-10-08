@@ -12,10 +12,10 @@
 
 <div>
   <a href="https://github.com/zqy233">
-    <img height="173" align="left" src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
+    <img height="172" align="left" src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/zqy233">
-    <img height="173" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
+    <img height="172" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
   </a>
 </div>
 
