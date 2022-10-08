@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<div>
+<div style="margin-top:20px">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=zqy233&theme=xcode" />
 </div>
 
