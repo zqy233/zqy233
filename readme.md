@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-    •📝
-    <b><a href="https://zqy233.github.io/vite-vue-blog/">Blogs</a></b>
+    📝
+    <b><a href="https://zqy233.github.io/vite-vue-blog/">Blog</a></b>
 </p>
 
 😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
