@@ -2,22 +2,16 @@
 
 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
 
- <ul align="left">
-  <img
-    width="350px"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact"
-  />
- </ul>
+<a href="https://github.com/zqy233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
+</a>
+
+<a href="https://github.com/zqy233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
+</a>
  
- <ul align="right">
-  <img
-    width="420px"
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true"
-  />
- </ul>
  
-<img
-  src="https://activity-graph.herokuapp.com/graph?username=zqy233&theme=xcode"
-/>
+ <a href="https://github.com/zqy233">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=zqy233&theme=xcode" />
+</a>
+
