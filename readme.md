@@ -3,13 +3,13 @@
 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
 
   <img
-    width="300px"
+    width="350px"
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact"
   />
 
   <img
-    width="500px"
+    width="450px"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true"
   />
