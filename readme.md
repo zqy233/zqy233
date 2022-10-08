@@ -3,7 +3,7 @@
 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
 
   <img
-    width="500px"
+    width="300px"
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqy233&layout=compact"
   />
