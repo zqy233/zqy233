@@ -2,8 +2,8 @@
   Hey, I'm ZQY! 👋
 </h1>
 
-- 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
 - 😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
+- 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
 
 <div>
   <a href="https://github.com/zqy233">
