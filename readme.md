@@ -3,7 +3,7 @@
 </h1>
 
 - 😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
-- 📝 Blog [https://zqy233.github.io/vite-vue-blog/](https://zqy233.github.io/vite-vue-blog/)
+- 📝 Blog [https://zqy233.github.io/zqy-blog/](https://zqy233.github.io/zqy-blog/)
 
 <div>
   <a href="https://github.com/zqy233">
