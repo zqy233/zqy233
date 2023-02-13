@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm ZQY233! 👋
+  Hey, I'm ZQY! 👋
 </h1>
 
 - 😊 I'm learning `vite`,`vue3`,`typescript`,`javascript`,`rollup`,`webpack` now.
