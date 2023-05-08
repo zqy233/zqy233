@@ -6,10 +6,24 @@
 - 📝 Blog [https://zqy233.github.io/zqy-blog/](https://zqy233.github.io/zqy-blog/)
 
 <div>
-  <a href="https://github.com/zqy233">
+  <a>
     <img height="165" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
   </a>
-  <a href="https://github.com/zqy233">
+  <a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
   </a>
 </div>
+
+#### my projects
+##### Custom Vue directives for controlling zoom and drag of SVG images.
+
+<div>
+  <a href="https://github.com/zqy233/svg-zoom-drag-vue-directives">
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-directives" />
+  </a>
+   <a href="https://github.com/zqy233/svg-zoom-drag-vue-demo">
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
+  </a>
+</div>
+
+
