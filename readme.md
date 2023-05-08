@@ -7,7 +7,7 @@
 
 <div>
   <a>
-    <img height="165" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
+    <img height="165"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
   </a>
   <a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
@@ -15,15 +15,17 @@
 </div>
 
 #### my projects
-##### Custom Vue directives for controlling zoom and drag of SVG images.
 
-<div>
   <a href="https://github.com/zqy233/svg-zoom-drag-vue-directives">
-    <img width="400" height="165" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-directives" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-directives" />
   </a>
    <a href="https://github.com/zqy233/svg-zoom-drag-vue-demo">
-    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
   </a>
-</div>
 
+####
+
+<a href="https://github.com/zqy233/math-float-deal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=math-float-deal" />
+</a>
 
