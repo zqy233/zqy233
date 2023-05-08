@@ -17,19 +17,19 @@
 #### Pinned
 
   <a href="https://github.com/zqy233/svg-zoom-drag-vue-directives">
-    <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-directives" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-directives" />
   </a>
    <a href="https://github.com/zqy233/svg-zoom-drag-vue-demo">
-    <img  width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
+    <img  width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
   </a>
 
 ####  
 
 <div>
 <a href="https://github.com/zqy233/math-float-deal">
-  <img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=math-float-deal" />
+  <img  width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=math-float-deal" />
 </a>
  <a href="https://github.com/zqy233/svg-zoom-drag-vue-demo">
-    <img  width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
+    <img  width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-demo" />
   </a>
 </div>
