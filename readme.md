@@ -14,7 +14,7 @@
   </a>
 </div>
 
-#### my projects
+#### Pinned
 
   <a href="https://github.com/zqy233/svg-zoom-drag-vue-directives">
     <img height="115" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zqy233&repo=svg-zoom-drag-vue-directives" />
