@@ -7,7 +7,7 @@
 
 <div>
   <a>
-    <img height="165"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
+    <img height="165" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
   </a>
   <a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
