@@ -11,8 +11,8 @@
 | [`PDF-merge`](https://github.com/zqy233/PDF-merge)<br>上传任意张pdf，合并成一张pdf，可以用于多张发票pdf合并，方便a4纸打印<br>pload multiple PDFs and merge them into a single PDF. This functionality can be used to combine multiple invoices for convenient printing on A4 paper | <img src="https://img.shields.io/github/stars/zqy233/PDF-merge?style=social" height="22" align="top" /> |
 
 <div align="center">
-  <img height="180"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
-  <img height="180"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
+  <img height="200"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true" />
+  <img height="200"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqy233&layout=compact" />
 </div>
 
 
