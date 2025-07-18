@@ -12,7 +12,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zqy233&theme=prussian&show_icons=true&count_private=true&card_width=470" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zqy233&layout=compact&langs_count=8&card_width=420" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zqy233&layout=compact&langs_count=8&card_width=320" />
 </div>
 
 
